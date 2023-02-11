@@ -1,7 +1,7 @@
 ### Introduction
 A simple typescript program for cors proxy.  
-It fetches the param url and adds Allow Access-Control-Allow-Origin: * to response headers.
-Support Content-Type like json html image.
+It fetches the param url and adds Allow Access-Control-Allow-Origin: * to response headers.  
+Support Content-Type like json html and image.  
 It can help you get rid of annoying 403 or cors error.
 ### Usage
 ```sh
